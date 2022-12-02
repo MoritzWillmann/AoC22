@@ -1,3 +1,4 @@
 #!/bin/bash
 temp="0$1"
-wget --load-cookies=cookies-adventofcode-com.txt https://adventofcode.com/2022/day/$1/input -O Day_${temp:(-2)}/input.txt
+mkdir Day_${temp:(-2)}
+curl -b cookies-adventofcode-com.txt -A "curl by moritz.willmann@web.de" https://adventofcode.com/2022/day/$1/input -o Day_${temp:(-2)}/input.txt
