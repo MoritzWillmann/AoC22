@@ -2,3 +2,4 @@
 <a href="https://github.com/MoritzWillmann/AoC22/blob/master/Day_01/solution.ipynb"><img src="Day_01/elf_landing.jpg" width="200" title="Day 1"></a>
 <a href="https://github.com/MoritzWillmann/AoC22/blob/master/Day_02/solution.ipynb"><img src="Day_02/rock_paper_scissors.jpg" width="200" title="Day 2"></a>
 <a href="https://github.com/MoritzWillmann/AoC22/blob/master/Day_03/solution.ipynb"><img src="Day_03/rucksacks.jpg" width="200" title="Day 3"></a>
+<a href="https://github.com/MoritzWillmann/AoC22/blob/master/Day_04/solution.ipynb"><img src="Day_04/clean_up.jpg" width="200" title="Day 4"></a>
