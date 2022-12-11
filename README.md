@@ -8,3 +8,4 @@
 <a href="Day_07/solution.ipynb"><img src="Day_07/update.jpg" width="200" title="Day 7"></a>
 <a href="Day_08/solution.ipynb"><img src="Day_08/trees.jpg" width="200" title="Day 8"></a>
 <a href="Day_09/solution.ipynb"><img src="Day_09/bridge.jpg" width="200" title="Day 9"></a>
+<a href="Day_10/solution.ipynb"><img src="Day_10/crt_tv.jpg" width="200" title="Day 10"></a>
