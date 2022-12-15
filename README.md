@@ -12,3 +12,4 @@
 <a href="Day_11/solution.ipynb"><img src="Day_11/monkey_business.jpg" width="200" title="Day 11"></a>
 <a href="Day_12/solution.ipynb"><img src="Day_12/hiking.jpg" width="200" title="Day 12"></a>
 <a href="Day_13/solution.ipynb"><img src="Day_13/distress_signal.jpg" width="200" title="Day 13"></a>
+<a href="Day_14/solution.ipynb"><img src="Day_14/cave.jpg" width="200" title="Day 14"></a>
